@@ -2,7 +2,7 @@ const express = require("express");
 const router = express.Router();
 
 const Book = require("../models/Book");
-const Student = require("../models/Student");
+const Student = require("../models/student");
 const Issue = require("../models/Issue");
 
 // ======================================
