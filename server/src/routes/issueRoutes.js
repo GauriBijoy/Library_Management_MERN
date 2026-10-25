@@ -5,7 +5,7 @@ const router = express.Router();
 
 const Issue = require("../models/Issue");
 const Book = require("../models/Book");
-const Student = require("../models/Student");
+const Student = require("../models/student");
 
 // ===================================
 // 1. ISSUE A BOOK
