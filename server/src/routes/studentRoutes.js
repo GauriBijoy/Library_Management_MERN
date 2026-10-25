@@ -2,7 +2,7 @@ const express = require("express");
 const mongoose = require("mongoose");
 const router = express.Router();
 
-const Student = require("../models/Student");
+const Student = require("../models/student");
 
 // ===================================
 // 1. ADD STUDENT
